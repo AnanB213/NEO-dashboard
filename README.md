@@ -30,8 +30,8 @@ An interactive Streamlit dashboard that fetches live close-approach data from NA
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/neo-dashboard.git
-   cd neo-dashboard
+   git clone https://github.com/AnanB213/NEO-dashboard.git
+   cd NEO-dashboard
    ```
 
 2. **Create and activate a virtual environment (recommended):**
